@@ -2,8 +2,6 @@
 
 **Maximize Your Efficiency and Achieve Your Goals with Wedge**
 
-**Test Now**: [https://www.wedgeai.netlify.app](https://www.wedgeai.netlify.app)
-
 ## Inspiration
 
 The inspiration for Wedge came from the realization that traditional project management tools often lack engagement and can feel tedious. We wanted to create a tool that not only helps manage projects effectively but also makes the process enjoyable through gamification. By turning tasks and milestones into a game-like experience, we aim to boost motivation and productivity.
