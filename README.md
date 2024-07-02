@@ -1,6 +1,18 @@
-# Wedge: An AI Powered Productivity Platform
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Maximize Your Efficiency and Achieve Your Goals with Wedge**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+# Wedge: An AI Powered Productivity Platform
+*Maximize Your Efficiency and Achieve Your Goals with Wedge*
+
+This is a submission for **Microsoft Developers AI Learning Hackathon 2024**.<br>
+Click [here](https://devpost.com/software/wedge) to view the Devpost submisson page.
 
 ## Inspiration
 
